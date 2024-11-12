@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Users who administer the Loaner Request application.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_cdltd_loaner_req.</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 03:03:50</sys_created_on>
+        <sys_id>b8ec937d8335961022c6ec80ceaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bd8fb6e3907012107f44a3b142c5979d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bd8fb6e3907012107f44a3b142c5979d</sys_scope>
+        <sys_update_name>sys_user_role_b8ec937d8335961022c6ec80ceaad33e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 03:03:50</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">bd8fb6e3907012107f44a3b142c5979d</application>
+        <file_path/>
+        <instance_id>3085a7ebdb310a1c37d72a5913961924</instance_id>
+        <instance_name>dev263265</instance_name>
+        <name>sys_user_role_b8ec937d8335961022c6ec80ceaad33e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Users who administer the Loaner Request application.</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_cdltd_loaner_req.</name><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-12 03:03:50</sys_created_on><sys_id>b8ec937d8335961022c6ec80ceaad33e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req.</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bd8fb6e3907012107f44a3b142c5979d</sys_package><sys_policy/><sys_scope display_value="Loaner Request">bd8fb6e3907012107f44a3b142c5979d</sys_scope><sys_update_name>sys_user_role_b8ec937d8335961022c6ec80ceaad33e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-12 03:03:50</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>1964930627</payload_hash>
+        <record_name>x_cdltd_loaner_req.</record_name>
+        <reverted_from/>
+        <source>d96d6b4f83a9121022c6ec80ceaad355</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 03:03:51</sys_created_on>
+        <sys_id>4b0d577d8335961022c6ec80ceaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1931e53d6d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 03:03:51</sys_updated_on>
+        <type>Role</type>
+        <update_guid>4f0d577d57359610442f7e4f3f7acdd9</update_guid>
+        <update_guid_history>4f0d577d57359610442f7e4f3f7acdd9:1964930627</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_loaner_req.">76ce57bd8335961022c6ec80ceaad32f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-12 03:11:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>0107c3293b5f4150813b6613d849d100</sys_id>
+        <sys_metadata>b8ec937d8335961022c6ec80ceaad33e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bd8fb6e3907012107f44a3b142c5979d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">bd8fb6e3907012107f44a3b142c5979d</sys_scope>
+        <sys_scope_delete display_value="">67be489bf707493c99a546218644ff24</sys_scope_delete>
+        <sys_update_name>sys_user_role_b8ec937d8335961022c6ec80ceaad33e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_b8ec937d8335961022c6ec80ceaad33e">4b0d577d8335961022c6ec80ceaad3da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-12 03:11:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
